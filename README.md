@@ -1,2 +1,2 @@
 # CIS3200
-Elastic Stack Azure (Netflix Analysis Project)
+ElasticSearch, Kibana, AzureML Project (Netflix Analysis)
